@@ -8,9 +8,9 @@ import java.io.IOException;
 public class Resources {
     public static BufferedImage[] letters;
     private static final String X_PATH =
-            "C:/Users/namde/OneDrive/Desktop/OOP/ticTacToeGame/Resources/Image/X.png";
+            "Resources/Image/X.png";
     private static final String O_PATH =
-            "C:/Users/namde/OneDrive/Desktop/OOP/ticTacToeGame/Resources/Image/O.png";
+            "Resources/Image/O.png";
 
     static {
         letters = new BufferedImage[2];
